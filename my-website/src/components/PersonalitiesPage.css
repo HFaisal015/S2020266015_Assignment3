@@ -1,0 +1,23 @@
+/* PersonalitiesPage.css */
+.personalities {
+    padding: 20px;
+  }
+  
+  .personality {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .personality img {
+    max-width: 200px;
+    margin-right: 20px;
+  }
+  
+  .personality-info h2 {
+    font-size: 24px;
+  }
+  
+  .personality-info p {
+    font-size: 16px;
+  }
+  
